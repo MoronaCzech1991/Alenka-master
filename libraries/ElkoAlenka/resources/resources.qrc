@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/brains/brain2.jpg</file>
+        <file>images/brains/brain1.png</file>
+        <file>images/brains/brain3.png</file>
+        <file>images/brains/brain4.png</file>
+        <file>images/drawer@4x.png</file>
+        <file>images/menu@4x.png</file>
+        <file>images/plus.png</file>
+        <file>images/Doctor_Hibbert.png</file>
+        <file>pages/BasicElectrode.qml</file>
+        <file>pages/Brain.qml</file>
+        <file>pages/BrainForm.qml</file>
+        <file>pages/DragTrack.qml</file>
+        <file>pages/DragTrackForm.qml</file>
+        <file>pages/Electrode.qml</file>
+        <file>pages/ElectrodeAddingDialog.qml</file>
+        <file>pages/ElectrodeAddingDialogForm.qml</file>
+        <file>pages/ElectrodeManager.qml</file>
+        <file>pages/ElectrodeManagerForm.qml</file>
+        <file>pages/ElectrodePlacement.qml</file>
+        <file>pages/ElectrodePlacementForm.qml</file>
+        <file>pages/ElectrodeSignalLink.qml</file>
+        <file>pages/ElectrodeSignalLinkForm.qml</file>
+        <file>pages/ImageManager.qml</file>
+        <file>pages/ImageManagerForm.qml</file>
+        <file>pages/XmlModels.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>+universal/SpinBox.qml</file>
+        <file>+universal/Button.qml</file>
+        <file>+universal/Label.qml</file>
+        <file>+universal/Switch.qml</file>
+        <file>+universal/ComboBox.qml</file>
+        <file>pages/ColorGradientSettingDialog.qml</file>
+        <file>pages/ColorGradientSettingDialogForm.qml</file>
+    </qresource>
+</RCC>
